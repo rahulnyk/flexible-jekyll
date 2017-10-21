@@ -1,6 +1,11 @@
 ---
 layout: main
 ---
+<div>
+  <p>
+    This is a div that should appear only on the home page and not on the post pages. 
+  </p>
+</div>
 {% for post in paginator.posts %}
 <article class="post">
   {% if post.img %}
