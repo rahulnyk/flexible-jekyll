@@ -16,7 +16,7 @@ layout: default
         {% for tag in tags %}
          <span >
             <a href="/flexible-jekyll/tag/{{ tag | first | slugify }}/"
-                style="font-size: 8; color: #555555; font-weight: lighter; text-decoration: none;">
+                style="font-size: 6; color: #555555; font-weight: lighter; text-decoration: none;">
                     {{ tag[0] | replace:'-', ' ' }} <!-- ({{ tag | last | size }}) -->
             </a> |
         </span>
