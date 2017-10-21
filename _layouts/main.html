@@ -14,7 +14,7 @@ layout: default
     <h3 class="contact-title">Tag Cloud</h3>
         {% assign tags = site.tags | sort %}
         {% for tag in tags %}
-         <span>
+         <span style="font-size: 10; color: #555555; font-weight: bold;">
             <a href="/tag/{{ tag | first | slugify }}/"
                 style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
                     {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
