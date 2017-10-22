@@ -768,6 +768,17 @@ template {
           box-sizing: border-box;
 }
 
+.firstcharacter {
+  color: #903;
+  float: left;
+  font-family: Georgia;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
 html {
   line-height: 1.5;
 }
@@ -780,6 +791,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+
 
 h1 {
   font-weight: 400;
