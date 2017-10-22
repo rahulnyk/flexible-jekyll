@@ -7,14 +7,15 @@ img: wishweb-logo.jpg # Add image post (optional)
 tags: [Projects, Ruby on rails, Android]
 ---
 
-<span class="firstcharacter">W</span>ishweb, a place where anyone can make wishes anonymously and discover others through their wishes. Wishweb is a project that came out of a long pending idea. 
+<span class="firstcharacter">W</span>ishweb, is a project that came out of a long pending idea. 
 
-<a href="https://play.google.com/store/apps/details?id=com.wishWebAndroid.mywish&hl=en"><i class="fa fa-android fa-2x"></i></a> Wishweb is currently an android app. Hopefully it will have a web frontend and a ios app soon :)
+<a href="https://play.google.com/store/apps/details?id=com.wishWebAndroid.mywish&hl=en"><i class="fa fa-android fa-2x"></i></a> 
+Wishweb is currently an android app. Hopefully it will have a web frontend and a ios app soon :)
 
 We have been expressing our wishes, all around the world since even before the concept of wish came into lexicographic existence. Tying a thread around a tree trunk or in a shrine, putting a lock on a bridge, throwing a coin in the river, spotting a shooting star, rolling it in a bottle, writing it on a wall and with so many other forms of expressions. Expressing wishes is as if one of our fundamental urges. Many proverbs, traditions and rituals and fairy tales are formed out of our urge to express our wishes.
 
 
-With Wishweb you can connect to wishers through anonymous chats and help fulfill their wishes. Anyone around the world can connect to you through your wishes as well. 
+Wishweb is a place where anyone can make wishes anonymously and discover others through their wishes. You can connect to wishers through anonymous chats and help fulfill their wishes. Anyone around the world can connect to you through your wishes as well. 
 
 
 * All the wishes are posted anonymous.
