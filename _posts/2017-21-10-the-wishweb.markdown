@@ -19,7 +19,7 @@ Wishweb is a place where anyone can make wishes anonymously and discover others 
 * You can connect to any wisher anonymously
 * Your identity is not revealed to any user. 
 
-<a href="https://play.google.com/store/apps/details?id=com.wishWebAndroid.mywish&hl=en"><i class="fa fa-android fa-3x"></i></a>
+<a href="https://play.google.com/store/apps/details?id=com.wishWebAndroid.mywish&hl=en"><i class="fa fa-android fa-3x"></i></a> <br />
 Wishweb is currently an android app. Hopefully it will have a web frontend and a ios app soon :)
 
 Wishweb is a small effort to make life more beautiful. Please rate it and leave your comments. 
