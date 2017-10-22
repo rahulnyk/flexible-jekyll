@@ -14,8 +14,8 @@ layout: default
     <h3 class="contact-title">Tags</h3><hr />
         {% assign tags = site.tags | sort %}
         {% for tag in tags %}
-         <span >
-            <a href="/flexible-jekyll/tag/#{{ tag | first | slugify }}/"
+         <span > <!-- # | slugify  -->
+            <a href="/flexible-jekyll/tag/#{{ tag | first}}/" 
                 style="font-size: 6; color: #555555; font-weight: lighter; text-decoration: none;">
                     {{ tag[0] | replace:'-', ' ' }} <!-- ({{ tag | last | size }}) -->
             </a> |
