@@ -14,13 +14,13 @@ We have been expressing our wishes, all around the world since even before the c
 
 Wishweb is a place where anyone can make wishes anonymously and discover others through their wishes. You can connect to wishers through anonymous chats and help fulfill their wishes. Anyone around the world can connect to you through your wishes as well. 
 
-
 * All the wishes are posted anonymous.
 * You can connect to any wisher anonymously
 * Your identity is not revealed to any user. 
 
-<a href="https://play.google.com/store/apps/details?id=com.wishWebAndroid.mywish&hl=en"><i class="fa fa-android fa-3x"></i></a> <br />
 Wishweb is currently an android app. Hopefully it will have a web frontend and a ios app soon :)
+
+<a href="https://play.google.com/store/apps/details?id=com.wishWebAndroid.mywish&hl=en"><i class="fa fa-android fa-3x" aria-hidden="true"></i></a> <br />
 
 Wishweb is a small effort to make life more beautiful. Please rate it and leave your comments. 
 If you have any specific feedback for us or just feel like saying hello, feel free to reach out to us at wishweb@worldwishweb.com :)
