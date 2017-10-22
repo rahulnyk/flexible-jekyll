@@ -2,7 +2,7 @@
 layout: post
 title: The Wishweb 
 date: 2017-10-21 13:29:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Wishweb, a place where anyone can make wishes anonymously and discover others through their wishes. Wishweb is a project that came out of a long pending wish, an idea and a desire. 
 img: wishweb-logo.jpg # Add image post (optional)
 tags: [Projects, Ruby on rails, Android]
 ---
