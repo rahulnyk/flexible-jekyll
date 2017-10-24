@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: The Wishweb 
 date: 2017-10-21 13:29:20 +0300
 description: Wishweb, a place where anyone can make wishes anonymously and discover others through their wishes. Wishweb is a project that came out of a long pending wish, an idea and a desire. 
