@@ -20,7 +20,7 @@ Here are few of my portraits, if you like them, please visit my portfolio  to se
 </a> &nbsp; &nbsp;
 
 <br />
-<div class='pixels-photo'>
+<div class='pixels-photo' style="width: 400;">
   <p>
     <img src='https://drscdn.500px.org/photo/227902955/m%3D900/v2?user_id=269543&webp=true&sig=0767793da37c8f8a15453abd459ca100e7cfc9cefbe5ab76ba576d99db25d0c5' alt='a lovely morning in the sahyadris by Rahul Nayak on 500px.com'>
   </p>
