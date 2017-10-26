@@ -6,7 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: photography_feature.jpg # Add image post (optional)
 tags: [Photography, Art, Hobby]
 ---
-If cameras were made as smart as the human eye, the art of portrait photograph would be lost. Thankfully that is not the case. I am a hobbiest photographer who is inching towards offbeat experimental professional photography. My work includes mostly portraits and landscapes. 
+If cameras could appreciate beauty as well as the human eye, the art of photography would be lost. Thankfully that is not the case. I am a hobbiest photographer who is inching towards offbeat experimental professional photography. My work includes mostly portraits and landscapes. 
 
 # Portraits
 Portraits is what I love to click the most. It is one of the most interesting classes of photography. Portraits are photographs which speaks more than thousand words. They narate stories, capture memories, describe personalities and recreate time. Portraits are also probably one of the toughest class of photography. A great number of skills involved in photography are put to test when creating portraits. <br />
@@ -24,9 +24,7 @@ Here are few of my portraits, if you like them, please visit my portfolio  to se
   <p>
     <img src='https://drscdn.500px.org/photo/227902955/m%3D900/v2?user_id=269543&webp=true&sig=0767793da37c8f8a15453abd459ca100e7cfc9cefbe5ab76ba576d99db25d0c5' alt='a lovely morning in the sahyadris by Rahul Nayak on 500px.com'>
   </p>
-  <a href='https://500px.com/photo/227902955/a-lovely-morning-in-the-sahyadris-by-rahul-nayak' alt='a lovely morning in the sahyadris by Rahul Nayak on 500px.com'></a>
 </div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 <div class='pixels-photo'>
   <p>
@@ -34,7 +32,6 @@ Here are few of my portraits, if you like them, please visit my portfolio  to se
   </p>
   <a href='https://500px.com/photo/152476165/the-concept-of-shiva-by-rahul-nayak' alt='The concept of Shiva by Rahul Nayak on 500px.com'></a>
 </div>
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 <div class='pixels-photo'>
   <p>
