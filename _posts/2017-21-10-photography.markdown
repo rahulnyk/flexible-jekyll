@@ -20,14 +20,14 @@ Here are few of my portraits, if you like them, please visit my portfolio  to se
 </a> &nbsp; &nbsp;
 
 <br />
-<div class='pixels-photo'>
+<div class='pixels-photo' style="width: 400px">
   <p>
     <img src='https://drscdn.500px.org/photo/227902955/m%3D900/v2?user_id=269543&webp=true&sig=0767793da37c8f8a15453abd459ca100e7cfc9cefbe5ab76ba576d99db25d0c5' alt='a lovely morning in the sahyadris by Rahul Nayak on 500px.com'>
   </p>
   <a href='https://500px.com/photo/227902955/a-lovely-morning-in-the-sahyadris-by-rahul-nayak' alt='a lovely morning in the sahyadris by Rahul Nayak on 500px.com'></a>
 </div>
 
-<div class='pixels-photo'>
+<div class='pixels-photo' style="width: 400px">
   <p>
     <img src='https://drscdn.500px.org/photo/152476165/m%3D900/v2?user_id=269543&webp=true&sig=c4b10e943f2b1e578af1b66ea8e5169a6a86a3c8b857f0cb5b7a83509e9f0ae8' alt='The concept of Shiva by Rahul Nayak on 500px.com'>
   </p>
