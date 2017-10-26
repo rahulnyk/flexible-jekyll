@@ -13,7 +13,7 @@ I love to colaborate with artists. If you feel my timelapse videos can be used i
 
 Here is a sample of my timelapse videography. For the full collection, please visit my youtube chennel <br />
 
-<a href="{{ site.youtube }}" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+<a href="{{ site.youtube }}" target="_blank"><i class="fa fa-youtube-play fa-2x" aria-hidden="true"></i></a>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BXzw-cbUZ-0" frameborder="0" allowfullscreen></iframe>
