@@ -11,7 +11,7 @@ Timelapses is an art of capturing a frame develop over time. It is a photograph 
 
 I love to colaborate with artists. If you feel my timelapse videos can be used in your artwork or production, please contact me. <br />
 
-Here is a sample of my timelapse videography. For the full collection, please visit my youtube chennel <br />
+Here is a sample of my timelapse videography. For the full collection, please visit my youtube chennel 
 
 <a href="{{ site.youtube }}" target="_blank"><i class="fa fa-youtube-play fa-2x" aria-hidden="true"></i></a>
 
