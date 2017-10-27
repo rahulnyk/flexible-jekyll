@@ -9,9 +9,11 @@ tags: [Photography, Art, Hobby]
 If cameras could appreciate beauty as well as the human eye, the art of photography would be lost. Thankfully that is not the case. I am a hobbiest photographer who is inching towards offbeat experimental professional photography. My work includes mostly portraits and landscapes. 
 
 # Portraits
-Portraits is what I love to click the most. It is one of the most interesting classes of photography. Portraits are photographs which speaks more than thousand words. They narate stories, capture memories, describe personalities and recreate time. Portraits are also probably one of the toughest class of photography. A great number of skills involved in photography are put to test when creating portraits. <br />
+Portraits is what I love to click the most. It is one of the most interesting classes of photography. Portraits are photographs which speaks more than thousand words. They narate stories, capture memories and describe personalities. Portraits is also probably one of the toughest class of photography. A great number of skills involved in photography are put to test when creating portraits. <br />
 
-I like to click and develop my portraits with surrealistic effects. I love to play with dramatic lights and colorful elements. With every portrait I try to be increasingly experimental. I hope find my niche and create a big portfolio in offbeat experimental portraits. If you think you have patience to be in front of my camera and be a part of my experiments, please feel free to contact me. I can promis pleasing results :)
+I have develop my own methods for creating surrealistic portraits. I spend a lot of time with every image I click. I love to play with dramatic lights and colorful elements. With every portrait I try to be increasingly experimental. With monochromatic portraits too I have my own recipe 
+
+I hope find my niche and create a big portfolio in offbeat experimental portraits. If you think you have patience to be in front of my camera and be a part of my experiments, please feel free to contact me. I can promis pleasing results :)
 
 <br />
 Here are few of my portraits, if you like them, please visit my portfolio  to see more. 
