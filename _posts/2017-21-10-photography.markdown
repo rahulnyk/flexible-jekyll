@@ -18,8 +18,5 @@ I love to edit my portraits with surrealistic effects. With every click I have b
 
 I hope find my niche and create a big portfolio in offbeat experimental portraits. If you think you have patience to be in front of my camera and be a part of my experiments, please feel free to contact me. I can promise pleasing results :)
 
-s://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-![Charlie](https://drscdn.500px.org/photo/132194353/m%3D900/v2?user_id=269543&webp=true&sig=52e8bcf231c701d5620382b29fa66d118d28475e7cf028ecc4fdc8a58f4a4405 =400px)
-
+<img src="https://drscdn.500px.org/photo/132194353/m%3D900/v2?user_id=269543&webp=true&sig=52e8bcf231c701d5620382b29fa66d118d28475e7cf028ecc4fdc8a58f4a4405" alt="Drawing" style="width: 200px;"/>
 
