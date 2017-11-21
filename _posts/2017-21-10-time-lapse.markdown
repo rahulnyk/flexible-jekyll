@@ -3,14 +3,14 @@ layout: post
 title: Timelapse 
 date: 2017-10-21 13:33:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: timelapse-feature.jpg # Add image post (optional)
+img: timelapse-preview.jpg # Add image post (optional)
 tags: [Photography, Art, Timelapse]
 ---
 
 Timelapses is an art of capturing how a frame develops over time. Timelapse is a photograph with a temporal dimension. <br />
 When making Timelapses, it is important that the photograph looks good, well composed, well lit, well framed and beautiful. It is equally important that as the time proceeds, the changes in the scene are captured smoothly. The process of capturing timelapse videos is the game of patience, and by all mean, the result is worth the effort. <br />
 
-I used lightroom, LRtimelapse and Panolapse for timelapse editing. I generally compose the video in Adobe After-effects and Premiere-pro <br />
+I used lightroom, LRtimelapse and Panolapse for timelapse compositions, for the video editing, I use Adobe After-effects and Premiere-pro <br />
 
 If you feel my timelapse videos can be used in your artwork or production, please contact me. I would love to collaborate with you <br />
 
