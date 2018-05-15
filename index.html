@@ -1,74 +1,30 @@
 ---
-layout: main
+layout: default
+robots: noindex
 ---
-<div style="padding-right: 100px; font-family: Georgia">
-  <p>
-    <span class="firstcharacter">H</span>i There, this is Rahul. 
-    Welcome to my personal portfolio <br /><br />
 
-    I am an engineer by profession and I am quite passionate about technology. Apart from skills in Semiconductor engineering, I am proficient in Ruby on Rails with a good knowledge of full stack development. I also enjoy occasional data analysis and visualization gigs using R and Python. I have 5 technology patent applications in my name, three of which are now granted. <br />
+<div class="main-post-list">
 
-    I Have been working with a few startups, as a technology and strategy adviser. I enjoy working with new ideas from concept to product. <br /> 
+  <ol class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <h2 class="post-list__post-title post-title"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p class="excerpt">{{ post.excerpt | strip_html }}&hellip;</p>
+        <div class="post-list__meta">
+            <time datetime="{{ post.date | date: "%Y-%m-%d %H:%M" }}" class="post-list__meta--date date">{{ post.date | date: "%-d %b %Y" }}</time>
+            {% if post.tags.size > 0 %}
+            &#8226; <span class="post-meta__tags">on {% for tag in post.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a> {% endfor %}</span>
+            {% endif %}
+        </div>
+        <hr class="post-list__divider">
+      </li>
+    {% endfor %}
+  </ol>
 
-    I have a keen interest in Photography including the art, the science and the history behind it. Most of my work includes surrealistic portraits with dramatic lights, Landscapes and Time-lapse Videos.  I spend a good amount of effort processing my photographs and I like to be increasingly experimental with every project I do. Over the years I have invented several photo and time-lapse editing techniques in order to keep improving my work. Occasionally I write about these techniques as well.  <br />
+  <hr class="post-list__divider ">
 
-    I am always up for long road trips. I very much feel at home on the highways. I am a foodie and will never hesitate to travel any distance even if just for food :) <br /> 
-    Please feel free to contact me using any of the icons below, I would be much obliged to hear from you. <br /> <br />
-
-    <a href="https://www.linkedin.com/in/rahulnyk/">
-      <i class="fa fa-linkedin-square "></i> 
-    </a> &nbsp; &nbsp;
-    <a href="https://500px.com/rahulnayak">
-      <i class="fa fa-500px " aria-hidden="true"></i> 
-    </a> &nbsp; &nbsp;
-    <a href="https://www.youtube.com/user/aihikii">
-      <i class="fa fa-youtube-play " aria-hidden="true"></i> 
-    </a> &nbsp; &nbsp;
-    <a href="https://medium.com/@rahul.nyk">
-      <i class="fa fa-medium " aria-hidden="true"></i>
-    </a>
-    <br /> <br />
-
-
-    <!-- <p >
-      <span class="firstcharacter">W</span>elcome to my website. <br />
-      Being an engineer, or in spite of it, I am passionate about science and technology. Professionally I have worked in the field of microelectronics for more than 11 years now. I have 5 patent applications in the fields of Semiconductor modeling, semiconductor devices and SRAM design. three of them are now granted. 
-      <br />
-      I have mentored a few of my junior coleagues helping them understand their career dillemas and life goals. <br />
-      <i class="fa fa-linkedin-square fa-2x"></i> Please visit my linkedin profile for more information about my proessional journey. 
-      <br />
-      I am a profecient Ruby on Rails developer with a good knowledge of full stack development. Occasionally I use a little bit of data science with R on the side for some intellectual stimulation. <br />
-      I have been associated with a few early stage startups, as a technology consultant. I help them design their technology platform from architecture to coding. 
-      Please feel free to contact me if I can help you or be associated with your ideas. 
-      
-      <br /><br />
-      I have a strong artistic alter ego. I am keenly interest in graphic design, Photography and Videography. <br />
-
-      I have the greatest love for #Photography. I like to click and develop my photograhs with surrealistic effects. Portraits are my favorite, though landscapes comes a close second. Occasionally I also write short tutorials on photography and photo editing. <br /> 
-      <i class="fa fa-500px fa-2x" aria-hidden="true"></i> Please bless me with a visit to my photobhog. 
-      <br />
-      As an extention to photography, I shoot a lot of timelapse videos.  <br />
-      <i class="fa fa-youtube-play fa-2x" aria-hidden="true"></i> Please visit my youtube channel to enjoy a few of them. 
-      <br />
-      As a graphic designer, I have tried my hands on Android app design and logo design. My logos are proudly used as brand identities by a few startups. Here is a selected collection of my logo portfolio. 
-      <br />
-    </p> -->
-
-  </p>
-</div>
-{% for post in paginator.posts %}
-<article class="post">
-  {% if post.img %}
-    <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
-  {% else %}
+  {% if paginator.previous_page or paginator.next_page %}
+      {% include pagination.html %}
   {% endif %}
-  <div class="post-content">
-    <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
-    <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
-    <!-- <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span> -->
-    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
-  </div>
-</article>
-{% endfor %}
 
-<!-- {% include pagination.html %} -->
+</div>
